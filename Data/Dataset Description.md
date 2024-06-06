@@ -1,0 +1,1 @@
+Data are obtained from 2010–01–04 to 2021–11–02 (11 years, 9 months, and 29 days) for Apple Inc (AAPL) and exported directly from Yahoo finance. Stock price history will be for the past 11 years (including the Covid-19 period). The data are exported directly from Yahoo finance.
